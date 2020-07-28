@@ -2,4 +2,4 @@
 My personal portfolio
 
 ## Status
-Work in progress :relaxed: :computer:
+Work in progress :relaxed::computer:
