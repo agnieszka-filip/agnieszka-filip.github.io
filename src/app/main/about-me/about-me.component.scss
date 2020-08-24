@@ -1,0 +1,24 @@
+@import "src/app/_variables.scss";
+
+h1 {
+  padding: 0.5rem;
+  background-color: #fff;
+  color: $background-blue;
+  font-family: "Russo One", sans-serif;
+  font-size: 20px;
+}
+
+.table th,
+.table td {
+  padding: 0.2rem;
+  border-top: 0;
+  font-family: "Source Code Pro", monospace;
+}
+
+.table th {
+  color: $neon-blue;
+}
+
+.table td {
+  color: #fff;
+}
